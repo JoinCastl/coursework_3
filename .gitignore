@@ -1,2 +1,4 @@
-*.pyc
-env/
+venv/
+.idea/
+.log
+.pytest_cache
